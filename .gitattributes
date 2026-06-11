@@ -1,0 +1,2 @@
+data/*.csv linguist-generated=true
+*.py linguist-detectable=true
