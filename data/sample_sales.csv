@@ -1,0 +1,16 @@
+date,invoice_no,customer_name,product_name,category,quantity,unit_price,payment_method,branch,sales_person
+2026-01-05,INV001,Kamau Farms,Dairy Meal,Animal Feeds,10,2800,M-Pesa,Embu,John
+2026-01-06,INV002,Wanjiku Agrovet,Mineral Salt,Mineral Salts,5,1200,Cash,Embu,Mary
+2026-01-07,INV003,Mwangi Farm,Dewormer,Veterinary Products,3,850,M-Pesa,Embu,John
+2026-01-08,INV004,Green Valley Farm,Herbicide,Agrochemicals,2,1500,Cash,Embu,Mary
+2026-01-09,INV005,Kiptoo Dairy,Layers Mash,Animal Feeds,15,2700,M-Pesa,Embu,John
+2026-01-10,INV006,Njoroge Farm,Tick Control,Veterinary Products,4,950,Cash,Embu,Peter
+2026-01-11,INV007,Faith Poultry,Chick Mash,Animal Feeds,20,2600,M-Pesa,Embu,Mary
+2026-01-12,INV008,Baraka Farm,Fungicide,Agrochemicals,6,1800,Bank,Embu,Peter
+2026-01-13,INV009,Mutiso Ranch,Beef Mineral Salt,Mineral Salts,8,1350,Cash,Embu,John
+2026-01-14,INV010,Hope Agrovet,Dog Food,Animal Feeds,7,3200,M-Pesa,Embu,Mary
+2026-02-01,INV011,Kamau Farms,Dairy Meal,Animal Feeds,12,2800,M-Pesa,Embu,John
+2026-02-03,INV012,Wanjiku Agrovet,Dewormer,Veterinary Products,5,850,Cash,Embu,Peter
+2026-02-04,INV013,Green Valley Farm,Herbicide,Agrochemicals,3,1500,M-Pesa,Embu,Mary
+2026-02-05,INV014,Faith Poultry,Layers Mash,Animal Feeds,18,2700,Bank,Embu,John
+2026-02-07,INV015,Njoroge Farm,Tick Control,Veterinary Products,6,950,Cash,Embu,Peter
